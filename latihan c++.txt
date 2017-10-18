@@ -1,0 +1,9 @@
+Latihan soal
+a. Nilai 1, Nilai 2, Nilai 3
+b. Jumlah, rata rata
+c. Index
+ - Jika >= 80 maka A
+ - Jika 70 -79 maka B
+ - Jika 60 - 69 maka C
+ - Jika 50 - 59 maka D
+ - jika < 50 maka E
